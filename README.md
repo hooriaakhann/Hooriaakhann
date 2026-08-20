@@ -1,21 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Hooria Khan
+# Hooria Khan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Perception+Engineer+%7C+Computer+Vision;Data+Engineer+%7C+Cloud+Data+Platforms;Data+Analyst+%7C+Business+Intelligence;Building+systems+that+see%2C+process%2C+and+explain+data" alt="Animated role introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=760&lines=Perception+Engineer+%7C+Computer+Vision;Real-Time+Vision+%7C+Tracking+%7C+Motion;Cloud+Data+Pipelines+%7C+Azure+%7C+Spark;ML+Systems+%7C+Analytics+%7C+Automation" alt="Animated engineering focus" />
+
+**Building real-world perception systems and scalable data pipelines.**
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hooriaakhann&label=Profile%20views&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hooriaakhann?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Graduate%20Research-6C63FF?style=for-the-badge" alt="Open to graduate research" />
+  <img src="https://komarev.com/ghpvc/?username=hooriaakhann&label=Profile%20views&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hooriaakhann?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
 </p>
-
-### 👁️ Perception & CV · ☁️ Data Engineering · 📊 Analytics · 🤖 Machine Learning
-
-[![Perception](https://img.shields.io/badge/Explore-Perception%20%26%20CV-6C63FF?style=for-the-badge)](#-perception--computer-vision)
-[![Data Engineering](https://img.shields.io/badge/Explore-Data%20Engineering-0A66C2?style=for-the-badge)](#-data-engineering)
-[![Analytics](https://img.shields.io/badge/Explore-Data%20Analytics-F2C811?style=for-the-badge&logoColor=black)](#-data-analytics)
-[![Machine Learning](https://img.shields.io/badge/Explore-Machine%20Learning-FF6F00?style=for-the-badge)](#-machine-learning)
 
 </div>
 
@@ -23,13 +17,11 @@
 
 ## 🚀 About Me
 
-I work at the intersection of **AI perception, computer vision, data engineering, machine learning, and analytics**.
+I am a **Perception Engineer** working on real-time computer-vision systems, with hands-on experience in **data engineering, machine learning, and analytics**.
 
-My engineering work includes processing egocentric video, tracking hands and objects, extracting motion signals, evaluating real-time computer-vision methods, and building cloud data systems that move operational data into reliable analytical layers.
+My work includes egocentric video, hand and object tracking, motion-signal extraction, temporal analysis, and evaluation of real-time vision methods. I also build cloud data pipelines that move operational data through reliable ingestion, transformation, storage, and analytics layers.
 
-I am especially interested in **computer vision, multimodal AI, intelligent perception, scalable ML systems, and cloud data platforms**.
-
-> **Portfolio philosophy:** build systems that do more than look good in a demo — they should be reproducible, measurable, modular, privacy-aware, and understandable.
+> **Engineering focus:** reproducible systems, measurable performance, modular architecture, privacy-aware data handling, and clear technical communication.
 
 ---
 
@@ -312,6 +304,6 @@ Interactive Power BI analysis of sales, revenue, profit, category performance, p
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-0A66C2?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Data-Analytics-F2C811?style=for-the-badge&logoColor=black)
 
-**Perception Engineer · Data Engineer · Data Analyst**
+**Perception Engineer · Computer Vision · Data & ML Systems**
 
 </div>
