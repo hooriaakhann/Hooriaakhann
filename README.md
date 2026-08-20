@@ -6,7 +6,7 @@
 
 I build systems that turn **visual signals and raw data into useful decisions** — from real-time computer-vision pipelines to streaming ETL systems and business analytics.
 
-[![GitHub](https://img.shields.io/badge/GitHub-hooriaakhan6--prog-181717?style=for-the-badge&logo=github)](https://github.com/hooriaakhan6-prog)
+[![GitHub](https://img.shields.io/badge/GitHub-hooriaakhann-181717?style=for-the-badge&logo=github)](https://github.com/hooriaakhann)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-Perception-6C63FF?style=for-the-badge)](#-perception--computer-vision)
 [![Data Engineering](https://img.shields.io/badge/Data-Engineering-0A66C2?style=for-the-badge)](#-data-engineering)
@@ -54,7 +54,7 @@ My primary professional focus is building systems that interpret real-world visu
 
 I enjoy building pipelines that move data cleanly from ingestion to processing, storage, orchestration, and consumption.
 
-### Featured project — [PakWheels ETL Pipeline](https://github.com/hooriaakhan6-prog/PakWheels-ETL-Pipeline)
+### Featured project — [PakWheels ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)
 
 An end-to-end streaming data pipeline for automotive listings.
 
@@ -80,7 +80,7 @@ PakWheels → Selenium → Kafka → Spark Structured Streaming → Parquet → 
 
 I also work on turning structured data into understandable business insights, KPIs, and decision-support dashboards.
 
-### Featured project — [Revenue & Profit Tracker](https://github.com/hooriaakhan6-prog/Revenue-Profit-Tracker)
+### Featured project — [Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)
 
 Interactive Power BI analysis of sales, revenue, profit, category performance, and payment behavior.
 
@@ -94,7 +94,7 @@ Interactive Power BI analysis of sales, revenue, profit, category performance, a
 
 # 🤖 Machine Learning
 
-### Featured project — [ChurnSense](https://github.com/hooriaakhan6-prog/ChurnSense)
+### Featured project — [ChurnSense](https://github.com/hooriaakhann/ChurnSense)
 
 An end-to-end customer-churn analysis and machine-learning workflow built around the Telco Customer Churn dataset.
 
@@ -134,9 +134,9 @@ I try to make projects demonstrate more than tool usage. I focus on:
 | Domain | Project | Focus |
 |---|---|---|
 | 👁️ Perception / CV | **Perception research & engineering** | Egocentric CV, hand/object tracking, motion analysis, temporal estimation |
-| ⚙️ Data Engineering | **[PakWheels ETL Pipeline](https://github.com/hooriaakhan6-prog/PakWheels-ETL-Pipeline)** | Kafka, Spark, Airflow, Docker, streaming ETL |
-| 🤖 Machine Learning | **[ChurnSense](https://github.com/hooriaakhan6-prog/ChurnSense)** | PySpark ML, feature engineering, classification |
-| 📊 Data Analytics | **[Revenue & Profit Tracker](https://github.com/hooriaakhan6-prog/Revenue-Profit-Tracker)** | Power BI, DAX, KPI and profit analysis |
+| ⚙️ Data Engineering | **[PakWheels ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)** | Kafka, Spark, Airflow, Docker, streaming ETL |
+| 🤖 Machine Learning | **[ChurnSense](https://github.com/hooriaakhann/ChurnSense)** | PySpark ML, feature engineering, classification |
+| 📊 Data Analytics | **[Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)** | Power BI, DAX, KPI and profit analysis |
 
 ---
 
