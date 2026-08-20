@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hooria Khan
+<img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/banner.svg" alt="Hooria Khan banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=760&lines=Perception+Engineer+%7C+Computer+Vision;Real-Time+Vision+%7C+Tracking+%7C+Motion;Cloud+Data+Pipelines+%7C+Azure+%7C+Spark;ML+Systems+%7C+Analytics+%7C+Automation" alt="Animated engineering focus" />
+<br/>
 
-**Building real-world perception systems and scalable data pipelines.**
+👋 I'm **Hooria Khan**, a **Perception Engineer** working across **computer vision, cloud data engineering, machine learning, and analytics**.
+
+I build systems that turn **visual signals and raw operational data into useful decisions** — from real-time perception pipelines to scalable data platforms and business insight dashboards.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hooriaakhann&label=Profile%20views&style=flat-square" alt="Profile views" />
@@ -17,11 +19,11 @@
 
 ## 🚀 About Me
 
-I am a **Perception Engineer** working on real-time computer-vision systems, with hands-on experience in **data engineering, machine learning, and analytics**.
+I work primarily on **real-world perception systems**: egocentric video, hand and object tracking, motion-signal extraction, temporal analysis, and evaluation of low-latency computer-vision methods.
 
-My work includes egocentric video, hand and object tracking, motion-signal extraction, temporal analysis, and evaluation of real-time vision methods. I also build cloud data pipelines that move operational data through reliable ingestion, transformation, storage, and analytics layers.
+Alongside perception, I build **cloud data and analytics systems** using Azure, Kafka, Spark, Airflow, Synapse, Power BI, Python, and SQL.
 
-> **Engineering focus:** reproducible systems, measurable performance, modular architecture, privacy-aware data handling, and clear technical communication.
+> **My engineering approach:** build things that are measurable, modular, reproducible, privacy-aware, and useful outside a demo.
 
 ---
 
@@ -54,36 +56,30 @@ Power BI<br/>DAX<br/>KPI design<br/>Business insights
 
 <div align="center">
 
-### Core Engineering
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn,azure,kafka,spark,docker,git,github,linux&perline=12" alt="Core technical stack" />
 
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn,git,github,docker,linux&perline=9" alt="Core engineering skills" />
+<br/><br/>
 
-### Data & Cloud
-
-<img src="https://skillicons.dev/icons?i=azure,kafka,spark,postgres,mysql,docker,githubactions&perline=7" alt="Data and cloud skills" />
-
-<br/>
-
-![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20%26%20Pose%20Tracking-4285F4?style=for-the-badge)
-![Optical Flow](https://img.shields.io/badge/Optical%20Flow-Motion%20Estimation-5C2D91?style=for-the-badge)
-![RepNet](https://img.shields.io/badge/RepNet-Periodic%20Action%20Estimation-FF6F00?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Synapse](https://img.shields.io/badge/Azure%20Synapse-Analytics-5C2D91?style=for-the-badge)
-![ADLS](https://img.shields.io/badge/ADLS%20Gen2-Data%20Lake-0078D4?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-5A5A5A?style=for-the-badge)
-![Bicep](https://img.shields.io/badge/Bicep-Infrastructure%20as%20Code-3C46A8?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20%26%20Pose%20Tracking-4285F4?style=flat-square)
+![Optical Flow](https://img.shields.io/badge/Optical%20Flow-Motion%20Estimation-5C2D91?style=flat-square)
+![RepNet](https://img.shields.io/badge/RepNet-Periodic%20Action%20Estimation-FF6F00?style=flat-square)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure%20Synapse-Analytics-5C2D91?style=flat-square)
+![ADLS](https://img.shields.io/badge/ADLS%20Gen2-Data%20Lake-0078D4?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-5A5A5A?style=flat-square)
+![Bicep](https://img.shields.io/badge/Bicep-Infrastructure%20as%20Code-3C46A8?style=flat-square)
 
 </div>
 
 ---
 
-# 👁️ Perception & Computer Vision
+## ⭐ Featured Work
 
-My primary professional focus is building systems that interpret real-world visual input reliably and efficiently.
+### 👁️ Perception & Computer Vision
 
-### Current technical themes
+My primary professional focus is building systems that interpret visual input reliably and efficiently.
 
 `Egocentric Vision` · `YOLO` · `MediaPipe` · `Optical Flow` · `Object Tracking` · `Hand Tracking` · `CNNs` · `RepNet` · `Temporal Signals` · `Multimodal AI`
 
@@ -103,37 +99,30 @@ My primary professional focus is building systems that interpret real-world visu
 
 </details>
 
----
+<br/>
 
-# ☁️ Data Engineering
+### 🏥 [Homecare Business Insights Platform](https://github.com/hooriaakhann/Homecare-Business-Insights-Platform)
 
-## 🏥 [Homecare Business Insights Platform](https://github.com/hooriaakhann/Homecare-Business-Insights-Platform)
-
-**Professional Azure Data Engineering & Analytics project — public-safe edition**
+**Azure Data Engineering & Analytics — public-safe professional project**
 
 ```text
-Care-management APIs
-        ↓
-Azure Durable Functions
-        ↓
-ADLS Gen2
-        ↓
-Bronze → Silver → Gold
-        ↓
-Synapse Serverless SQL
-        ↓
-Power BI
+Care-management APIs → Azure Durable Functions → ADLS Gen2
+                                           ↓
+                                Bronze → Silver → Gold
+                                           ↓
+                              Synapse Serverless SQL
+                                           ↓
+                                      Power BI
 ```
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud%20Data%20Platform-0078D4?style=flat-square&logo=microsoftazure)
 ![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=flat-square&logo=python&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-Analytical%20Storage-50ABF1?style=flat-square)
 ![Synapse](https://img.shields.io/badge/Synapse-Serverless%20SQL-5C2D91?style=flat-square)
 ![Bicep](https://img.shields.io/badge/Bicep-IaC-3C46A8?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <details>
-<summary><b>⚙️ What this project demonstrates</b></summary>
+<summary><b>⚙️ Explore the engineering</b></summary>
 <br/>
 
 - Incremental, full-refresh and date-range ingestion patterns
@@ -151,7 +140,7 @@ Power BI
 
 <br/>
 
-## 🚗 [PakWheels Streaming ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)
+### 🚗 [PakWheels Streaming ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)
 
 ```text
 PakWheels → Selenium → Kafka → Spark Structured Streaming → Parquet → Streamlit
@@ -163,7 +152,6 @@ PakWheels → Selenium → Kafka → Spark Structured Streaming → Parquet → 
 ![Spark](https://img.shields.io/badge/Spark-Structured%20Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Analytics-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 <details>
 <summary><b>📦 Pipeline details</b></summary>
@@ -179,11 +167,9 @@ PakWheels → Selenium → Kafka → Spark Structured Streaming → Parquet → 
 
 </details>
 
----
+<br/>
 
-# 🤖 Machine Learning
-
-## [ChurnSense](https://github.com/hooriaakhann/ChurnSense)
+### 🤖 [ChurnSense](https://github.com/hooriaakhann/ChurnSense)
 
 End-to-end customer churn analysis and machine-learning workflow using the Telco Customer Churn dataset.
 
@@ -197,34 +183,17 @@ End-to-end customer churn analysis and machine-learning workflow using the Telco
 
 `Raw Data → Cleaning → EDA → Feature Engineering → Model Training → Evaluation → Churn Risk Analysis`
 
-The project covers classification modeling, categorical feature engineering, evaluation, and connecting model outputs to a practical retention problem.
-
 </details>
 
----
+<br/>
 
-# 📊 Data Analytics
-
-## [Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)
+### 📊 [Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)
 
 Interactive Power BI analysis of sales, revenue, profit, category performance, payment behavior, and business KPIs.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-KPIs-5A5A5A?style=flat-square)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346?style=flat-square)
-
-<details>
-<summary><b>📈 Analytics focus</b></summary>
-<br/>
-
-- Revenue and profit analysis
-- KPI design
-- Product/category performance
-- Payment behavior
-- Trend analysis
-- Business-focused visual storytelling
-
-</details>
 
 ---
 
@@ -240,12 +209,12 @@ Interactive Power BI analysis of sales, revenue, profit, category performance, p
 
 ---
 
-## 📈 Live GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hooriaakhann&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Hooria's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriaakhann&layout=compact&hide_border=true&langs_count=8" alt="Hooria's most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hooriaakhann&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Hooria's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriaakhann&layout=compact&hide_border=true&langs_count=8" alt="Hooria's most used languages" />
 
 <br/>
 
@@ -259,7 +228,7 @@ Interactive Power BI analysis of sales, revenue, profit, category performance, p
 
 ---
 
-## 🐍 Contributions, but Make It Move
+## 🐍 Contribution Flow
 
 <div align="center">
 
@@ -276,10 +245,10 @@ Interactive Power BI analysis of sales, revenue, profit, category performance, p
 ## 🔬 How I Approach Engineering
 
 <details>
-<summary><b>Click to open my engineering principles</b></summary>
+<summary><b>Open engineering principles</b></summary>
 <br/>
 
-**Reproducibility** — clear setup, dependency management, environment templates, IaC, and version control.
+**Reproducibility** — clear setup, dependency management, environment templates, infrastructure-as-code, and version control.
 
 **Evaluation** — measurable performance instead of relying only on screenshots or demos.
 
@@ -297,13 +266,13 @@ Interactive Power BI analysis of sales, revenue, profit, category performance, p
 
 <div align="center">
 
-## ⚡ Building Systems That See, Process & Explain Data
+## ⚡ Build. Measure. Improve.
+
+**Perception Engineer · Computer Vision · Data & ML Systems**
 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Perception-6C63FF?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-FF6F00?style=for-the-badge)
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-0A66C2?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Data-Analytics-F2C811?style=for-the-badge&logoColor=black)
-
-**Perception Engineer · Computer Vision · Data & ML Systems**
 
 </div>
