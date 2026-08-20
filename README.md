@@ -1,30 +1,89 @@
 <div align="center">
 
-# Hooria Khan
+# 👋 Hi, I'm Hooria Khan
 
-### Perception Engineer · Data Engineer · Data Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Perception+Engineer+%7C+Computer+Vision;Data+Engineer+%7C+Cloud+Data+Platforms;Data+Analyst+%7C+Business+Intelligence;Building+systems+that+see%2C+process%2C+and+explain+data" alt="Animated role introduction" />
 
-I build systems that turn **visual signals and raw data into useful decisions** — from real-time computer-vision pipelines to cloud data platforms and business analytics.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hooriaakhann&label=Profile%20views&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hooriaakhann?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Graduate%20Research-6C63FF?style=for-the-badge" alt="Open to graduate research" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-hooriaakhann-181717?style=for-the-badge&logo=github)](https://github.com/hooriaakhann)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-Perception-6C63FF?style=for-the-badge)](#-perception--computer-vision)
-[![Data Engineering](https://img.shields.io/badge/Data-Engineering-0A66C2?style=for-the-badge)](#-data-engineering)
-[![Analytics](https://img.shields.io/badge/Data-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-data-analytics)
+### 👁️ Perception & CV · ☁️ Data Engineering · 📊 Analytics · 🤖 Machine Learning
+
+[![Perception](https://img.shields.io/badge/Explore-Perception%20%26%20CV-6C63FF?style=for-the-badge)](#-perception--computer-vision)
+[![Data Engineering](https://img.shields.io/badge/Explore-Data%20Engineering-0A66C2?style=for-the-badge)](#-data-engineering)
+[![Analytics](https://img.shields.io/badge/Explore-Data%20Analytics-F2C811?style=for-the-badge&logoColor=black)](#-data-analytics)
+[![Machine Learning](https://img.shields.io/badge/Explore-Machine%20Learning-FF6F00?style=for-the-badge)](#-machine-learning)
 
 </div>
 
 ---
 
-## About me
+## 🚀 About Me
 
-I am a computer-science graduate working at the intersection of **AI perception, computer vision, data engineering, and analytics**.
+I work at the intersection of **AI perception, computer vision, data engineering, machine learning, and analytics**.
 
-My current engineering work focuses on perception for XR/AI systems: processing egocentric video, tracking hands and objects, extracting motion signals, and evaluating real-time computer-vision methods. Alongside that, I build cloud data pipelines and analytics solutions using technologies such as Azure, Kafka, Spark, Airflow, Docker, PySpark, Synapse, Power BI, and Python.
+My engineering work includes processing egocentric video, tracking hands and objects, extracting motion signals, evaluating real-time computer-vision methods, and building cloud data systems that move operational data into reliable analytical layers.
 
-I am especially interested in graduate study and research involving **computer vision, multimodal AI, intelligent perception, machine learning, and scalable data systems**.
+I am especially interested in **computer vision, multimodal AI, intelligent perception, scalable ML systems, and cloud data platforms**.
 
-> My portfolio is intentionally split into three connected areas: **Perception**, **Data Engineering**, and **Data Analytics**.
+> **Portfolio philosophy:** build systems that do more than look good in a demo — they should be reproducible, measurable, modular, privacy-aware, and understandable.
+
+---
+
+## 🧭 What I Build
+
+<table>
+<tr>
+<td width="25%" align="center">
+<h3>👁️ Perception</h3>
+Egocentric vision<br/>Hand & object tracking<br/>Motion analysis<br/>Temporal estimation
+</td>
+<td width="25%" align="center">
+<h3>☁️ Data Engineering</h3>
+ETL / ELT<br/>Streaming pipelines<br/>Azure data platforms<br/>Bronze / Silver / Gold
+</td>
+<td width="25%" align="center">
+<h3>🤖 ML / AI</h3>
+Classification<br/>CNNs<br/>RAG & LLM workflows<br/>Multimodal systems
+</td>
+<td width="25%" align="center">
+<h3>📊 Analytics</h3>
+Power BI<br/>DAX<br/>KPI design<br/>Business insights
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core Engineering
+
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn,git,github,docker,linux&perline=9" alt="Core engineering skills" />
+
+### Data & Cloud
+
+<img src="https://skillicons.dev/icons?i=azure,kafka,spark,postgres,mysql,docker,githubactions&perline=7" alt="Data and cloud skills" />
+
+<br/>
+
+![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20%26%20Pose%20Tracking-4285F4?style=for-the-badge)
+![Optical Flow](https://img.shields.io/badge/Optical%20Flow-Motion%20Estimation-5C2D91?style=for-the-badge)
+![RepNet](https://img.shields.io/badge/RepNet-Periodic%20Action%20Estimation-FF6F00?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure%20Synapse-Analytics-5C2D91?style=for-the-badge)
+![ADLS](https://img.shields.io/badge/ADLS%20Gen2-Data%20Lake-0078D4?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-5A5A5A?style=for-the-badge)
+![Bicep](https://img.shields.io/badge/Bicep-Infrastructure%20as%20Code-3C46A8?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -32,60 +91,75 @@ I am especially interested in graduate study and research involving **computer v
 
 My primary professional focus is building systems that interpret real-world visual input reliably and efficiently.
 
-### Areas I work with
-
-`Computer Vision` `YOLO` `MediaPipe` `Optical Flow` `Object Tracking` `Hand Tracking` `CNNs` `RepNet` `Temporal Signals` `Multimodal AI` `OpenCV` `Python`
-
 ### Current technical themes
+
+`Egocentric Vision` · `YOLO` · `MediaPipe` · `Optical Flow` · `Object Tracking` · `Hand Tracking` · `CNNs` · `RepNet` · `Temporal Signals` · `Multimodal AI`
+
+<details>
+<summary><b>🔍 Expand perception work</b></summary>
+<br/>
 
 - Egocentric video understanding from smart-glasses / first-person camera streams
 - Real-time object and hand detection for interactive XR workflows
 - Motion tracking and temporal signal extraction from video
 - Optical-flow and keypoint-based motion analysis
-- Repetition / periodic-action estimation from video
+- Repetition and periodic-action estimation from video
 - Model evaluation, failure analysis, and confidence-based fusion
 - Low-latency perception pipelines designed for real-world use
 
-> Some perception work is part of my current professional role and remains private. Public repositories use independent or sanitized examples rather than proprietary code, data, or internal system details.
+> Some professional perception work remains private. Public examples use independent or sanitized implementations instead of proprietary code or data.
+
+</details>
 
 ---
 
-# ⚙️ Data Engineering
+# ☁️ Data Engineering
 
-I build pipelines that move data from source systems into reliable analytical layers, with an emphasis on reproducibility, incremental loading, orchestration, and clean serving models.
+## 🏥 [Homecare Business Insights Platform](https://github.com/hooriaakhann/Homecare-Business-Insights-Platform)
 
-### 🏥 [Homecare Business Insights Platform](https://github.com/hooriaakhann/Homecare-Business-Insights-Platform) — Professional Client Project
-
-A cloud-based homecare-services analytics platform integrating operational APIs into Azure for reporting and business intelligence.
+**Professional Azure Data Engineering & Analytics project — public-safe edition**
 
 ```text
-Operational APIs → Azure Durable Functions → ADLS Gen2
-                                      ↓
-                           Bronze → Silver → Gold
-                                      ↓
-                         Synapse Serverless SQL
-                                      ↓
-                                Power BI
+Care-management APIs
+        ↓
+Azure Durable Functions
+        ↓
+ADLS Gen2
+        ↓
+Bronze → Silver → Gold
+        ↓
+Synapse Serverless SQL
+        ↓
+Power BI
 ```
 
-**Stack:** `Python` `Azure Durable Functions` `ADLS Gen2` `Parquet` `Azure Synapse` `Power BI` `Bicep` `GitHub Actions`
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Data%20Platform-0078D4?style=flat-square&logo=microsoftazure)
+![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=flat-square&logo=python&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-Analytical%20Storage-50ABF1?style=flat-square)
+![Synapse](https://img.shields.io/badge/Synapse-Serverless%20SQL-5C2D91?style=flat-square)
+![Bicep](https://img.shields.io/badge/Bicep-IaC-3C46A8?style=flat-square)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**What it demonstrates:**
-- Incremental, full-refresh and date-range ingestion strategies
-- Watermark-based loading with overlap windows
-- Immutable Bronze storage and replayable raw history
-- Typed, normalized and deduplicated Silver datasets
-- Gold facts, dimensions, history tables and reporting marts
+<details>
+<summary><b>⚙️ What this project demonstrates</b></summary>
+<br/>
+
+- Incremental, full-refresh and date-range ingestion patterns
+- Persisted watermarks with overlap windows
+- Immutable Bronze storage
+- Normalized and deduplicated Silver datasets
+- Gold dimensions, facts, history tables and marts
+- SCD Type 2 history
+- API pagination, retries and throttling
 - Synapse Serverless SQL over Parquet
 - Azure infrastructure-as-code with Bicep
-- CI/CD workflows for infrastructure, application and SQL deployment
-- Privacy-aware handling of homecare operational data
+- GitHub Actions validation and CI/CD patterns
 
-> This is represented publicly as a sanitized case study. Real client data, credentials, production resource names and proprietary source code are intentionally excluded.
+</details>
 
-### 🚗 [PakWheels ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)
+<br/>
 
-An end-to-end streaming data pipeline for automotive listings.
+## 🚗 [PakWheels Streaming ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)
 
 ```text
 PakWheels → Selenium → Kafka → Spark Structured Streaming → Parquet → Streamlit
@@ -93,89 +167,151 @@ PakWheels → Selenium → Kafka → Spark Structured Streaming → Parquet → 
                            Airflow
 ```
 
-**Stack:** `Python` `Selenium` `Apache Kafka` `PySpark` `Apache Airflow` `Docker` `Parquet` `Streamlit`
+![Kafka](https://img.shields.io/badge/Kafka-Event%20Streaming-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-Structured%20Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Analytics-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**What it demonstrates:**
+<details>
+<summary><b>📦 Pipeline details</b></summary>
+<br/>
+
 - Automated web-data extraction
-- Event-driven ingestion with Kafka
-- Streaming processing with Spark
-- Workflow orchestration with Airflow
-- Containerized infrastructure
-- Analytical serving through a Streamlit dashboard
+- Event-driven Kafka ingestion
+- Spark Structured Streaming transformations
+- Airflow orchestration
+- Parquet analytical storage
+- Docker-based local infrastructure
+- Streamlit dashboard serving
 
----
-
-# 📊 Data Analytics
-
-I also work on turning structured operational and business data into understandable KPIs, trends, and decision-support dashboards.
-
-### 📊 [Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)
-
-Interactive Power BI analysis of sales, revenue, profit, category performance, and payment behavior.
-
-**Stack:** `Power BI` `DAX` `Power Query` `Data Modeling` `KPI Design`
-
-### Analytics experience
-
-`Power BI` `DAX` `Power Query` `Pandas` `NumPy` `SQL` `Matplotlib` `Data Cleaning` `Exploratory Data Analysis` `KPI Reporting` `Operational Analytics`
+</details>
 
 ---
 
 # 🤖 Machine Learning
 
-### [ChurnSense](https://github.com/hooriaakhann/ChurnSense)
+## [ChurnSense](https://github.com/hooriaakhann/ChurnSense)
 
-An end-to-end customer-churn analysis and machine-learning workflow built around the Telco Customer Churn dataset.
+End-to-end customer churn analysis and machine-learning workflow using the Telco Customer Churn dataset.
 
-**Stack:** `Python` `PySpark` `MLlib` `Scikit-learn` `Pandas` `Jupyter`
+![PySpark](https://img.shields.io/badge/PySpark-MLlib-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-150458?style=flat-square&logo=pandas&logoColor=white)
 
-The project covers data cleaning, EDA, feature engineering, model training, and evaluation while connecting model output to a real business-retention problem.
+<details>
+<summary><b>🧠 ML workflow</b></summary>
+<br/>
 
----
+`Raw Data → Cleaning → EDA → Feature Engineering → Model Training → Evaluation → Churn Risk Analysis`
 
-## 🧰 Technical toolbox
+The project covers classification modeling, categorical feature engineering, evaluation, and connecting model outputs to a practical retention problem.
 
-| Area | Technologies |
-|---|---|
-| **Perception / CV** | OpenCV, YOLO, MediaPipe, Optical Flow, Object Tracking, Hand Tracking, RepNet, CNNs |
-| **ML / AI** | Scikit-learn, PySpark MLlib, Neural Networks, RAG, LLM workflows, Multimodal AI |
-| **Data Engineering** | Apache Kafka, Apache Spark, PySpark, Airflow, ETL/ELT, Parquet, Bronze/Silver/Gold |
-| **Analytics** | Power BI, DAX, Power Query, Pandas, NumPy, Matplotlib, SQL |
-| **Cloud / Platforms** | Azure Functions, ADLS Gen2, Azure Synapse, Azure Key Vault, Application Insights, Microsoft Fabric |
-| **DevOps / Infra** | Docker, Git, GitHub Actions, Bicep, CI/CD |
-| **Programming** | Python, SQL, Jupyter |
+</details>
 
 ---
 
-## 🔬 Engineering mindset
+# 📊 Data Analytics
 
-I try to make projects demonstrate more than tool usage. I focus on:
+## [Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)
 
-- **Reproducibility** — clear setup, dependency files, environment templates, infrastructure-as-code, and version control
-- **Evaluation** — measurable performance instead of screenshots alone
-- **Modularity** — separating ingestion, transformation, modeling, and serving layers
-- **Real-world constraints** — latency, noisy inputs, data quality, failures, schema changes, and maintainability
-- **Data responsibility** — protecting secrets, private datasets, and client information
-- **Communication** — documenting not only *what* was built, but *why* each technical choice was made
+Interactive Power BI analysis of sales, revenue, profit, category performance, payment behavior, and business KPIs.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-KPIs-5A5A5A?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346?style=flat-square)
+
+<details>
+<summary><b>📈 Analytics focus</b></summary>
+<br/>
+
+- Revenue and profit analysis
+- KPI design
+- Product/category performance
+- Payment behavior
+- Trend analysis
+- Business-focused visual storytelling
+
+</details>
 
 ---
 
-## 📌 Portfolio map
+## 📌 Portfolio at a Glance
 
-| Domain | Project | Focus |
+| Domain | Project | Main Focus |
 |---|---|---|
-| 👁️ Perception / CV | **Perception research & engineering** | Egocentric CV, hand/object tracking, motion analysis, temporal estimation |
-| ☁️ Data Engineering | **[Homecare Business Insights Platform](https://github.com/hooriaakhann/Homecare-Business-Insights-Platform)** | Azure Functions, ADLS, Bronze/Silver/Gold, Synapse, Bicep, CI/CD |
-| ⚙️ Data Engineering | **[PakWheels ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)** | Kafka, Spark, Airflow, Docker, streaming ETL |
+| 👁️ Perception / CV | **Perception engineering work** | Egocentric CV, tracking, motion, temporal estimation |
+| ☁️ Cloud Data Engineering | **[Homecare Business Insights Platform](https://github.com/hooriaakhann/Homecare-Business-Insights-Platform)** | Azure Functions, ADLS, Bronze/Silver/Gold, Synapse, Bicep |
+| ⚙️ Streaming Data Engineering | **[PakWheels ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)** | Kafka, Spark, Airflow, Docker |
 | 🤖 Machine Learning | **[ChurnSense](https://github.com/hooriaakhann/ChurnSense)** | PySpark ML, feature engineering, classification |
-| 📊 Data Analytics | **[Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)** | Power BI, DAX, KPI and profit analysis |
+| 📊 Data Analytics | **[Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)** | Power BI, DAX, KPI analysis |
+
+---
+
+## 📈 Live GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hooriaakhann&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Hooria's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriaakhann&layout=compact&hide_border=true&langs_count=8" alt="Hooria's most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=hooriaakhann&hide_border=true" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hooriaakhann&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contributions, but Make It Move
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🔬 How I Approach Engineering
+
+<details>
+<summary><b>Click to open my engineering principles</b></summary>
+<br/>
+
+**Reproducibility** — clear setup, dependency management, environment templates, IaC, and version control.
+
+**Evaluation** — measurable performance instead of relying only on screenshots or demos.
+
+**Modularity** — separating ingestion, transformation, modeling, serving, and presentation layers.
+
+**Real-world constraints** — latency, noisy inputs, schema evolution, failures, data quality, and maintainability.
+
+**Data responsibility** — protecting secrets, private datasets, employer/client information, and sensitive records.
+
+**Communication** — documenting not only *what* was built, but *why* technical decisions were made.
+
+</details>
 
 ---
 
 <div align="center">
 
-### Building systems that see, process, and explain data.
+## ⚡ Building Systems That See, Process & Explain Data
 
-`Perception` · `Computer Vision` · `Machine Learning` · `Data Engineering` · `Data Analytics`
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Perception-6C63FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-FF6F00?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-0A66C2?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data-Analytics-F2C811?style=for-the-badge&logoColor=black)
+
+**Perception Engineer · Data Engineer · Data Analyst**
 
 </div>
