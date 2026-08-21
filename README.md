@@ -40,39 +40,18 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn,azure,kafka,postgres,docker,git,github,linux&perline=12" alt="Languages and tools" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/MediaPipe-Tracking-4285F4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-Data%20Processing-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure%20Synapse-Analytics-5C2D91?style=flat-square" />
-  <img src="https://img.shields.io/badge/ADLS%20Gen2-Data%20Lake-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bicep-Infrastructure%20as%20Code-3C46A8?style=flat-square" />
-</p>
-
-<br />
+<br/>
 
 <div align="center">
-  <img width="31%" alt="Perception Active" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/active-perception.svg" />
-  <img width="40%" alt="Vision to Insight" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/vision-data.svg" />
+  <img width="34%" alt="Vision Coding" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/vision-coding.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="34%" alt="Data Pipelines" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/data-coding.svg" />
 </div>
 
-<br />
+<br/>
 
 ---
 
