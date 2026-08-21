@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="240" viewBox="0 0 460 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#15254a"/>
+    </linearGradient>
+  </defs>
+  <rect width="460" height="240" rx="24" fill="url(#bg)"/>
+  <rect x="42" y="44" width="250" height="132" rx="12" fill="#111827" stroke="#2563eb" stroke-width="3"/>
+  <g font-family="Fira Code, monospace" font-size="13">
+    <text x="60" y="72" fill="#fbbf24">extract()</text>
+    <text x="125" y="72" fill="#f8fafc">→</text>
+    <text x="145" y="72" fill="#22d3ee">kafka</text>
+    <text x="60" y="98" fill="#a855f7">spark.transform()</text>
+    <text x="60" y="124" fill="#34d399">write_parquet()</text>
+    <text x="60" y="150" fill="#60a5fa">power_bi.refresh()</text>
+  </g>
+  <g transform="translate(332,64)">
+    <rect x="0" y="0" width="74" height="18" rx="9" fill="#22d3ee" opacity=".85"/>
+    <rect x="8" y="34" width="58" height="18" rx="9" fill="#a855f7" opacity=".85"/>
+    <rect x="16" y="68" width="42" height="18" rx="9" fill="#fbbf24" opacity=".85"/>
+    <path d="M37 18 V34 M37 52 V68" stroke="#f8fafc" stroke-width="3"/>
+  </g>
+  <text x="230" y="214" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="20" font-weight="700">DATA PIPELINES</text>
+</svg>
