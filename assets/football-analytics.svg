@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B0F2C"/>
+      <stop offset="1" stop-color="#123524"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" rx="28" fill="url(#bg)"/>
+  <rect x="90" y="70" width="620" height="270" rx="10" fill="#0f5132" stroke="#d1fae5" stroke-width="4"/>
+  <line x1="400" y1="70" x2="400" y2="340" stroke="#d1fae5" stroke-width="3"/>
+  <circle cx="400" cy="205" r="48" fill="none" stroke="#d1fae5" stroke-width="3"/>
+  <g fill="#22d3ee">
+    <circle cx="210" cy="140" r="10"/><circle cx="280" cy="220" r="10"/><circle cx="330" cy="160" r="10"/>
+    <circle cx="260" cy="285" r="10"/><circle cx="365" cy="260" r="10"/>
+  </g>
+  <g fill="#a855f7">
+    <circle cx="500" cy="135" r="10"/><circle cx="560" cy="215" r="10"/><circle cx="615" cy="165" r="10"/>
+    <circle cx="535" cy="280" r="10"/><circle cx="455" cy="250" r="10"/>
+  </g>
+  <circle cx="420" cy="195" r="7" fill="#ffffff"/>
+  <g stroke="#facc15" stroke-width="3" fill="none" opacity=".9">
+    <rect x="191" y="121" width="38" height="38"/><rect x="481" y="116" width="38" height="38"/>
+  </g>
+  <text x="400" y="386" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI,Arial" font-size="32" font-weight="800">Football Analytics</text>
+  <text x="400" y="421" text-anchor="middle" fill="#C4B5FD" font-family="Segoe UI,Arial" font-size="18">YOLOv8 • ByteTrack • Optical Flow • Tactical Insights</text>
+</svg>
