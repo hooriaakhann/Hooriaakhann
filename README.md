@@ -51,41 +51,38 @@
   <img width="34%" alt="Data Pipelines" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/data-coding.svg" />
 </div>
 
-<br/>
+<br />
 
 ---
 
 ## 🤖 AI & Computer Vision Engineering
 
-Building real-world perception pipelines, motion-analysis systems, and multimodal AI workflows.
+Building intelligent vision systems for motion understanding, tracking, sports analytics, and real-world perception.
 
 ### Featured Projects
 
+> Project demo GIFs/images will be added next so each card opens with a real visual result, matching the reference profile layout.
+
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <h3>🫀 Egocentric Motion & CPR Rate Estimation</h3>
-      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/cpr-motion.svg" width="100%" alt="Egocentric Motion Rate" />
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/cpr-motion.svg" width="100%" alt="Egocentric Motion and CPR Rate Estimation" />
       <p><strong>Professional / Private</strong></p>
-      <p><strong>Tech:</strong> Python, MediaPipe, Optical Flow, RepNet, Signal Processing</p>
-      <p>Hybrid computer-vision pipeline for estimating periodic motion rate from first-person video using tracking, temporal signals, and confidence-based method comparison.</p>
+      <p><strong>Tech:</strong> Python, MediaPipe, Optical Flow, RepNet, CoTracker, Signal Processing</p>
+      <p>Hybrid computer-vision pipeline for estimating CPR compression rate from first-person smart-glasses video using hand/wrist localization, motion tracking, ego-motion compensation, periodicity analysis, and confidence-based method fusion.</p>
     </td>
-    <td width="33%" align="center">
-      <h3>✋ Hand & Object Perception</h3>
-      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/hand-object.svg" width="100%" alt="Hand and Object Perception" />
-      <p><strong>Professional / Private</strong></p>
-      <p><strong>Tech:</strong> YOLO, MediaPipe, OpenCV, Hand Tracking, Object Detection</p>
-      <p>Real-time perception for egocentric XR workflows, combining hand and object understanding with low-latency visual processing.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌊 Motion Analysis Lab</h3>
-      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/optical-flow.svg" width="100%" alt="Optical Flow Motion Analysis" />
-      <p><strong>Professional / Private</strong></p>
-      <p><strong>Tech:</strong> Optical Flow, Keypoints, OpenCV, Temporal Signals</p>
-      <p>Motion extraction and camera-motion-aware analysis using optical flow, tracked keypoints, filtering, and periodicity estimation.</p>
+    <td width="50%" align="center">
+      <h3>⚽ Football Analytics</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/football-analytics.svg" width="100%" alt="Football Analytics" />
+      <p><strong>Portfolio / Learning Implementation</strong></p>
+      <p><strong>Tech:</strong> Python, YOLOv8, ByteTrack, OpenCV, Optical Flow, NumPy, Pandas, Scikit-learn</p>
+      <p>Broadcast-football analytics pipeline for player, referee, and ball detection/tracking; camera-motion compensation; perspective transformation; team-color clustering; ball-possession attribution; and player speed/distance estimation.</p>
     </td>
   </tr>
 </table>
+
+<sub>Football Analytics is an adapted learning implementation that builds on public sports-computer-vision resources and libraries, including Roboflow/Supervision concepts.</sub>
 
 ---
 
