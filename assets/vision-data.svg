@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="210" viewBox="0 0 520 210">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#111827"/><stop offset=".55" stop-color="#172554"/><stop offset="1" stop-color="#581C87"/></linearGradient></defs>
+<rect width="520" height="210" rx="26" fill="url(#g)"/>
+<path d="M55 105 H135 M170 105 H250 M285 105 H365 M400 105 H465" stroke="#22D3EE" stroke-width="5" stroke-linecap="round"/>
+<circle cx="55" cy="105" r="16" fill="#A855F7"/><circle cx="152" cy="105" r="16" fill="#22D3EE"/><circle cx="267" cy="105" r="16" fill="#A855F7"/><circle cx="382" cy="105" r="16" fill="#22D3EE"/><circle cx="465" cy="105" r="16" fill="#A855F7"/>
+<text x="260" y="62" text-anchor="middle" fill="white" font-family="Segoe UI,Arial" font-size="27" font-weight="800">VISION → SIGNAL → INSIGHT</text>
+<text x="260" y="158" text-anchor="middle" fill="#C4B5FD" font-family="Segoe UI,Arial" font-size="18">Computer Vision • Data Engineering • Analytics</text>
+</svg>

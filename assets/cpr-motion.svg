@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0F2C"/><stop offset=".55" stop-color="#3B176E"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+    </defs>
+    <rect width="800" height="450" rx="28" fill="url(#bg)"/>
+    <circle cx="710" cy="55" r="95" fill="#A855F7" opacity=".12"/>
+    <circle cx="80" cy="390" r="110" fill="#22D3EE" opacity=".08"/>
+    <circle cx="160" cy="140" r="55" fill="none" stroke="#22D3EE" stroke-width="8" opacity=".9"/>
+    <circle cx="160" cy="140" r="14" fill="#A855F7"/>
+    <path d="M80 245 C120 205 160 285 200 245 S280 205 320 245 S400 285 440 245 S520 205 560 245 S640 285 720 245" fill="none" stroke="#22D3EE" stroke-width="5" stroke-linecap="round"/>
+    <line x1="80" y1="245" x2="720" y2="245" stroke="#ffffff" opacity=".15"/>
+    <text x="400" y="382" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="32" font-weight="800">Egocentric Motion Rate</text>
+    <text x="400" y="418" text-anchor="middle" fill="#C4B5FD" font-family="Segoe UI, Arial" font-size="19">Tracking • Optical Flow • Temporal Signals</text>
+    </svg>

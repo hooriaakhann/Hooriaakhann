@@ -1,159 +1,326 @@
-<div align="center">
+<div align="center"> 
 
-# Hooria Khan
-
-### Perception Engineer
-
-*Building real-world computer vision, AI, and data systems.*
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hooriaakhann&label=Profile%20Views&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hooriaakhann?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
-</p>
-
-<a href="#about">About</a> •
-<a href="#experience">Experience</a> •
-<a href="#projects">Projects</a> •
-<a href="#tech-stack">Tech Stack</a> •
-<a href="#activity">GitHub Activity</a>
-
-</div>
-
----
-
-<a id="about"></a>
-## About Me
-
-I am a **Perception Engineer** working on systems that understand visual input from the real world. My work includes **egocentric video, hand and object tracking, motion-signal extraction, temporal analysis, and evaluation of real-time computer-vision methods**.
-
-My broader engineering experience spans **machine learning, cloud data engineering, and analytics**, giving me experience across the full path from raw visual or operational data to usable intelligence.
-
-**Current focus:** Computer Vision · Perception · Multimodal AI · Data Systems
-
----
-
-<a id="experience"></a>
-## Professional Experience
-
-### 👁️ Perception Engineer — XR-Care / Crowdception
-
-- Build and evaluate **low-latency egocentric computer-vision pipelines** for first-person and smart-glasses video.
-- Work with **hand tracking, object detection, optical flow, keypoints, motion signals, and temporal estimation**.
-- Compare perception approaches through **accuracy, confidence, failure analysis, and real-world robustness**.
-- Explore perception and multimodal AI for interactive XR workflows where visual context needs to be understood in real time.
-
-> Some professional perception work is private. Public portfolio projects use independent or sanitized implementations rather than employer code, data, or internal system details.
-
-### ☁️ Data Engineering & Analytics — Professional Client Work
-
-- Built and maintained data workflows using **Python, Azure Functions, ADLS Gen2, Synapse, SQL, and Power BI**.
-- Worked with **Bronze → Silver → Gold** data architecture, incremental loading, watermarks, reporting marts, and analytical models.
-- Used automation and data integration workflows to connect operational systems with reporting and business-intelligence layers.
-
----
-
-<a id="projects"></a>
-## Featured Projects
-
-### 👁️ Computer Vision & AI
-
-#### Egocentric Motion & CPR Rate Estimation — *Public portfolio version in progress*
-
-`Python` `Computer Vision` `MediaPipe` `Optical Flow` `Object Tracking` `RepNet` `Temporal Signals` `Signal Processing`
-
-A computer-vision pipeline for estimating periodic motion rate from egocentric video. The work explores multiple visual and temporal signals, motion compensation, periodicity estimation, confidence scoring, and method comparison under real-world camera motion.
-
----
-
-### ☁️ Data Engineering
-
-#### 🏥 [Homecare Business Insights Platform](https://github.com/hooriaakhann/Homecare-Business-Insights-Platform)
-
-`Python` `Azure Durable Functions` `ADLS Gen2` `Parquet` `Synapse` `Power BI` `Bicep` `GitHub Actions`
-
-Public-safe implementation of a professional Azure analytics architecture covering **API ingestion, incremental loading, Bronze/Silver/Gold layers, SCD history, Gold facts and dimensions, Synapse Serverless SQL, infrastructure-as-code, and CI validation**.
-
-#### 🚗 [PakWheels Streaming ETL Pipeline](https://github.com/hooriaakhann/PakWheels-ETL-Pipeline)
-
-`Python` `Selenium` `Kafka` `Spark Structured Streaming` `Airflow` `Docker` `Parquet` `Streamlit`
-
-An end-to-end streaming pipeline that extracts automotive listing data, publishes events through Kafka, processes them with Spark, stores analytical data in Parquet, and serves results through Streamlit.
-
----
-
-### 🤖 Machine Learning
-
-#### [ChurnSense](https://github.com/hooriaakhann/ChurnSense)
-
-`Python` `PySpark` `MLlib` `Scikit-learn` `Pandas` `Jupyter`
-
-An end-to-end customer-churn workflow covering **data cleaning, exploratory analysis, feature engineering, classification models, evaluation, and business-oriented churn analysis**.
-
----
-
-### 📊 Data Analytics
-
-#### [Revenue & Profit Tracker](https://github.com/hooriaakhann/Revenue-Profit-Tracker)
-
-`Power BI` `DAX` `Power Query` `Data Modeling` `KPI Design`
-
-Interactive business-performance analysis focused on **revenue, profit, category performance, payment behavior, trends, and management KPIs**.
-
----
-
-<a id="tech-stack"></a>
-## Tech Stack
-
-| Area | Technologies |
-|---|---|
-| **Computer Vision & Perception** | Python · OpenCV · YOLO · MediaPipe · Optical Flow · Object Tracking · Hand Tracking · RepNet · CNNs |
-| **Machine Learning & AI** | Scikit-learn · PySpark MLlib · Neural Networks · RAG · LLM workflows · Multimodal AI |
-| **Data Engineering** | Apache Kafka · Apache Spark · PySpark · Airflow · ETL/ELT · Parquet · Bronze/Silver/Gold |
-| **Cloud & Analytics** | Azure Functions · ADLS Gen2 · Azure Synapse · Power BI · DAX · Power Query · SQL |
-| **Engineering & DevOps** | Docker · Git · GitHub Actions · Bicep · CI/CD · Jupyter |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn,azure,kafka,docker,git,github,linux&perline=11" alt="Technical stack icons" />
-
-</div>
-
----
-
-<a id="activity"></a>
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hooriaakhann&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Hooria's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriaakhann&layout=compact&hide_border=true&langs_count=8" alt="Hooria's most used languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=260&section=header&text=Hooria%20Khan&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%91%81%EF%B8%8F%20Perception%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Data%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hooriaakhann&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<a href="https://github.com/hooriaakhann">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:hooriaakhan6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/hooriaakhann?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-6C1CD1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=%F0%9F%91%81%EF%B8%8F+Building+real-time+perception+systems;%E2%9A%A1+Computer+Vision+%2B+Tracking+%2B+Motion+Analysis;%E2%98%81%EF%B8%8F+Azure+%2B+Kafka+%2B+Spark+%2B+Analytics;%F0%9F%A4%96+RAG+%2B+Multimodal+AI+%2B+Data+Engineering" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 About Me
+
+- 🔭 **Currently Working On:** Perception Engineering | Computer Vision | Data Systems
+- 👩‍💻 **Specializations:** Egocentric Vision, Hand/Object Tracking, Optical Flow, Temporal Signals, ETL/ELT Pipelines
+- 🤝 **Looking to collaborate on:** Open-source Computer Vision, AI/ML, RAG, and Data Engineering projects
+- 💬 **Ask me about:** Python, YOLO, MediaPipe, OpenCV, Motion Analysis, PySpark, Kafka, Azure, Power BI
+- 📫 **How to reach me:** hooriaakhan6@gmail.com
+- ⚡ **Fun fact:** I like turning noisy visual and operational data into measurable systems.
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/MediaPipe-Tracking-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-Data%20Processing-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse-Analytics-5C2D91?style=flat-square" />
+  <img src="https://img.shields.io/badge/ADLS%20Gen2-Data%20Lake-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bicep-Infrastructure%20as%20Code-3C46A8?style=flat-square" />
+</p>
+
+<br />
+
+<div align="center">
+  <img width="31%" alt="Perception Active" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/active-perception.svg" />
+  <img width="40%" alt="Vision to Insight" src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/vision-data.svg" />
+</div>
+
+<br />
+
+---
+
+## 🤖 AI & Computer Vision Engineering
+
+Building real-world perception pipelines, motion-analysis systems, and multimodal AI workflows.
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🫀 Egocentric Motion & CPR Rate Estimation</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/cpr-motion.svg" width="100%" alt="Egocentric Motion Rate" />
+      <p><strong>Professional / Private</strong></p>
+      <p><strong>Tech:</strong> Python, MediaPipe, Optical Flow, RepNet, Signal Processing</p>
+      <p>Hybrid computer-vision pipeline for estimating periodic motion rate from first-person video using tracking, temporal signals, and confidence-based method comparison.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>✋ Hand & Object Perception</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/hand-object.svg" width="100%" alt="Hand and Object Perception" />
+      <p><strong>Professional / Private</strong></p>
+      <p><strong>Tech:</strong> YOLO, MediaPipe, OpenCV, Hand Tracking, Object Detection</p>
+      <p>Real-time perception for egocentric XR workflows, combining hand and object understanding with low-latency visual processing.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🌊 Motion Analysis Lab</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/optical-flow.svg" width="100%" alt="Optical Flow Motion Analysis" />
+      <p><strong>Professional / Private</strong></p>
+      <p><strong>Tech:</strong> Optical Flow, Keypoints, OpenCV, Temporal Signals</p>
+      <p>Motion extraction and camera-motion-aware analysis using optical flow, tracked keypoints, filtering, and periodicity estimation.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Data Engineering & ETL/ELT Pipelines
+
+Designing reliable data platforms, streaming pipelines, cloud analytics layers, and automation workflows.
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏥 Homecare Business Insights Platform</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/homecare-platform.svg" width="100%" alt="Homecare Business Insights Platform" />
+      <p><a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Azure Functions, ADLS Gen2, Synapse, Parquet, Bicep, Power BI</p>
+      <p>Public-safe Azure implementation with incremental API ingestion, Bronze/Silver/Gold layers, history modeling, SQL serving, and infrastructure-as-code.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🚗 PakWheels Streaming ETL Pipeline</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/pakwheels-etl.svg" width="100%" alt="PakWheels Streaming ETL Pipeline" />
+      <p><a href="https://github.com/hooriaakhann/PakWheels-ETL-Pipeline"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Selenium, Kafka, Spark Structured Streaming, Airflow, Docker</p>
+      <p>End-to-end streaming ETL pipeline from web extraction to event ingestion, Spark processing, Parquet storage, and Streamlit analytics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center" colspan="2">
+      <h3>🔄 Automation & Data Sync Workflows</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/automation-workflow.svg" width="55%" alt="Automation and Data Sync" />
+      <p><strong>Professional / Private</strong></p>
+      <p><strong>Tech:</strong> n8n, REST APIs, Supabase, Python, Validation & Data Sync</p>
+      <p>Operational automation workflows for employee/user synchronization, validation, conditional routing, normalization, and system-to-system updates.</p>
+    </td>
+  </tr>
+</table>
+
+### 📸 Data & Analytics Portfolio — Gallery
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/hooriaakhann/Revenue-Profit-Tracker"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/revenue-profit.svg" width="260" alt="Revenue and Profit Tracker"></a><br>
+<sub><b>Revenue & Profit Tracker</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/hooriaakhann/ChurnSense"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/churnsense.svg" width="260" alt="ChurnSense"></a><br>
+<sub><b>ChurnSense</b></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/homecare-platform.svg" width="260" alt="Homecare Insights"></a><br>
+<sub><b>Homecare Business Insights</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Generative AI & Product Engineering
+
+Building AI-driven product experiences that combine retrieval, generation, customization, and interactive interfaces.
+
+### Featured Project
+
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <h3>👗 StyleSync — Generative AI Fashion Platform</h3>
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/stylesync.svg" width="55%" alt="StyleSync" />
+      <p><strong>Final Year Project / Private</strong></p>
+      <p><strong>Tech:</strong> Stable Diffusion, ControlNet, OpenAI API, Pinecone, RAG, Three.js, Selenium</p>
+      <p>Fashion platform combining product retrieval, semantic search, masked generative customization, prompt-driven design changes, and an interactive 3D product preview.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education & Focus
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🏫 Education**
+- **BS Computer Science**
+- Applied focus: AI, Computer Vision, Machine Learning, Data Engineering
+
+</td>
+<td valign="top" width="50%">
+
+**🧠 Applied Areas**
+- Perception & Computer Vision
+- Generative AI & RAG
+- Cloud Data Engineering
+- Business Intelligence & Analytics
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📈 Most Used Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hooriaakhann&show_icons=true&theme=github_dark&layout=pie" alt="Languages Pie Chart" />
+      </td>
+      <td width="50%">
+        <h4>Language & Tooling Breakdown</h4>
+        <ul align="left">
+          <li>🐍 <strong>Python:</strong> Computer Vision, ML, ETL, automation</li>
+          <li>🗄️ <strong>SQL:</strong> Analytics, marts, data modeling</li>
+          <li>📊 <strong>DAX / Power Query:</strong> BI and KPI reporting</li>
+          <li>⚙️ <strong>YAML / Bicep:</strong> CI/CD and cloud infrastructure</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## Engineering Principles
+## 🏆 Achievements & Focus
 
-**Reproducibility** — clear environments, dependencies, configuration, version control, and infrastructure-as-code.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img width="100%" src="https://img.shields.io/badge/Role-Perception%20Engineer-0077b6?style=for-the-badge" />
+      </td>
+      <td align="center" width="20%">
+        <img width="100%" src="https://img.shields.io/badge/Public%20Projects-4%2B-0077b6?style=for-the-badge" />
+      </td>
+      <td align="center" width="20%">
+        <img width="100%" src="https://img.shields.io/badge/Computer%20Vision-Active-0077b6?style=for-the-badge" />
+      </td>
+      <td align="center" width="20%">
+        <img width="100%" src="https://img.shields.io/badge/Data%20Engineering-Azure-0077b6?style=for-the-badge" />
+      </td>
+      <td align="center" width="20%">
+        <img width="100%" src="https://img.shields.io/badge/Analytics-Power%20BI-0077b6?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Evaluation** — measurable performance and failure analysis rather than relying only on demos.
+## 📊 GitHub Analytics
 
-**Modularity** — separating acquisition, processing, modeling, serving, and presentation concerns.
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hooriaakhann&show_icons=true&theme=github_dark&include_all_commits=true&line_height=27" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hooriaakhann&show_icons=true&theme=github_dark&layout=compact&langs_count=10" alt="Top Languages" />
+</div>
 
-**Real-world constraints** — latency, camera motion, noisy inputs, schema evolution, data quality, failures, and maintainability.
+<div align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=hooriaakhann&theme=github-dark" alt="Streak Stats" />
+</div>
 
-**Data responsibility** — protecting employer/client information, secrets, and private datasets.
+---
+
+## 📅 Contribution Calendar - Full Year
+
+<div align="center">
+  <img width="98%" alt="Hooria Khan GitHub Contribution Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=hooriaakhann&theme=github-dark&bg_color=0d1117&line=0077b6&point=0077b6&area=true&hide_border=true" />
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+  <p>
+    <a href="https://github.com/hooriaakhann" target="blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:hooriaakhan6@gmail.com" target="blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🚀 Building: Real-time perception systems, egocentric CV, motion-rate estimation
+📚 Learning: Multimodal AI, robust visual tracking, scalable AI/data systems
+🤝 Open to: Collaboration on Computer Vision, AI/ML, RAG, and Data Engineering projects
+🎨 Interests: Perception, Computer Vision, RAG, XR, Data Engineering, Analytics
+```
 
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0077b6&center=true&width=700&lines=Perception+%2B+AI+%2B+Data+Engineer;Building+systems+that+see+and+understand;Turning+signals+into+useful+decisions&repeat=true" alt="Typing Animation" />
+</div>
 
-### Building systems that see, process, and explain data.
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-hooriaakhann-181717?style=for-the-badge&logo=github)](https://github.com/hooriaakhann)
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0077b6" />
+    <img src="https://img.shields.io/badge/Vision-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=0077b6" />
+    <img src="https://img.shields.io/badge/Data-Kafka%20%2B%20Spark-informational?style=flat&logo=apachekafka&logoColor=white&color=0077b6" />
+    <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0077b6" />
+  </p>
+  
+  <p>Made with ❤️ by <a href="https://github.com/hooriaakhann">hooriaakhann</a> | Last Updated: 2026</p>
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=120&section=footer" width="100%"/>
 </div>

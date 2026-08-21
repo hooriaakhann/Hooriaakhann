@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0B0F2C"/><stop offset="1" stop-color="#4C1D95"/></linearGradient></defs>
+<rect width="420" height="210" rx="26" fill="url(#g)"/>
+<circle cx="82" cy="104" r="36" fill="none" stroke="#22D3EE" stroke-width="6"><animate attributeName="r" values="28;40;28" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="82" cy="104" r="12" fill="#A855F7"/>
+<text x="145" y="92" fill="white" font-family="Segoe UI,Arial" font-size="27" font-weight="800">PERCEPTION</text>
+<text x="145" y="128" fill="#C4B5FD" font-family="Segoe UI,Arial" font-size="18">real-time • visual • measurable</text>
+</svg>
