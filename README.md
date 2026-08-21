@@ -74,7 +74,9 @@ Building intelligent vision systems for motion understanding, tracking, sports a
     </td>
     <td width="50%" align="center">
       <h3>⚽ Football Analytics</h3>
-      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/football-analytics.svg" width="100%" alt="Football Analytics" />
+      <a href="https://github.com/hooriaakhann/Football-analytics-main">
+        <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/football-analytics-demo.gif" width="100%" alt="Football Analytics demo — click to open the code" />
+      </a>
       <p><a href="https://github.com/hooriaakhann/Football-analytics-main"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Python, YOLOv8, ByteTrack, OpenCV, Optical Flow, NumPy, Pandas, Scikit-learn</p>
       <p>Broadcast-football analytics pipeline for player, referee, and ball detection/tracking; camera-motion compensation; perspective transformation; team-color clustering; ball-possession attribution; and player speed/distance estimation.</p>
