@@ -61,13 +61,11 @@ Building intelligent vision systems for motion understanding, tracking, sports a
 
 ### Featured Projects
 
-> Project demo GIFs/images will be added next so each card opens with a real visual result, matching the reference profile layout.
-
 <table>
   <tr>
     <td width="50%" align="center">
       <h3>🫀 Egocentric Motion & CPR Rate Estimation</h3>
-      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/cpr-motion.svg" width="100%" alt="Egocentric Motion and CPR Rate Estimation" />
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/cpr-motion.gif" width="100%" alt="Egocentric Motion and CPR Rate Estimation demo" />
       <p><a href="https://github.com/hooriaakhann/xrcare_cpr_pipeline"><strong>View Repository →</strong></a> <sub>(Private)</sub></p>
       <p><strong>Tech:</strong> Python, MediaPipe, Optical Flow, RepNet, CoTracker, Signal Processing</p>
       <p>Hybrid computer-vision pipeline for estimating CPR compression rate from first-person smart-glasses video using hand/wrist localization, motion tracking, ego-motion compensation, periodicity analysis, and confidence-based method fusion.</p>
