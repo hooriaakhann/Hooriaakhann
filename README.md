@@ -88,7 +88,7 @@ Building intelligent vision systems for motion understanding, tracking, sports a
 
 ## 📊 Data Engineering & ETL/ELT Pipelines
 
-Designing reliable data platforms, streaming pipelines, cloud analytics layers, and automation workflows.
+Designing reliable data platforms, streaming pipelines, cloud analytics layers, and scalable ETL/ELT workflows.
 
 ### Featured Projects
 
@@ -107,15 +107,6 @@ Designing reliable data platforms, streaming pipelines, cloud analytics layers, 
       <p><a href="https://github.com/hooriaakhann/PakWheels-ETL-Pipeline"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Selenium, Kafka, Spark Structured Streaming, Airflow, Docker</p>
       <p>End-to-end streaming ETL pipeline from web extraction to event ingestion, Spark processing, Parquet storage, and Streamlit analytics.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center" colspan="2">
-      <h3>🔄 Automation & Data Sync Workflows</h3>
-      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/automation-workflow.svg" width="55%" alt="Automation and Data Sync" />
-      <p><strong>Professional / Private</strong></p>
-      <p><strong>Tech:</strong> n8n, REST APIs, Supabase, Python, Validation & Data Sync</p>
-      <p>Operational automation workflows for employee/user synchronization, validation, conditional routing, normalization, and system-to-system updates.</p>
     </td>
   </tr>
 </table>
@@ -199,7 +190,7 @@ Building AI-driven product experiences that combine retrieval, generation, custo
       <td width="50%">
         <h4>Language & Tooling Breakdown</h4>
         <ul align="left">
-          <li>🐍 <strong>Python:</strong> Computer Vision, ML, ETL, automation</li>
+          <li>🐍 <strong>Python:</strong> Computer Vision, ML, ETL, pipelines</li>
           <li>🗄️ <strong>SQL:</strong> Analytics, marts, data modeling</li>
           <li>📊 <strong>DAX / Power Query:</strong> BI and KPI reporting</li>
           <li>⚙️ <strong>YAML / Bicep:</strong> CI/CD and cloud infrastructure</li>
