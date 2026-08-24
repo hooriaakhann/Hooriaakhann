@@ -96,7 +96,7 @@ Designing reliable data platforms, streaming pipelines, cloud analytics layers, 
   <tr>
     <td width="50%" align="center">
       <h3>🏥 Homecare Business Insights Platform</h3>
-      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/homecare-platform.svg" width="100%" alt="Homecare Business Insights Platform" />
+      <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/harwell-dashboard-profile.jpg" width="100%" alt="Harwell Homecare Business Insights Dashboard" />
       <p><a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Azure Functions, ADLS Gen2, Synapse, Parquet, Bicep, Power BI</p>
       <p>Public-safe Azure implementation with incremental API ingestion, Bronze/Silver/Gold layers, history modeling, SQL serving, and infrastructure-as-code.</p>
@@ -124,7 +124,7 @@ Designing reliable data platforms, streaming pipelines, cloud analytics layers, 
 <sub><b>ChurnSense</b></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/homecare-platform.svg" width="260" alt="Homecare Insights"></a><br>
+<a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/harwell-dashboard-profile.jpg" width="260" alt="Harwell Homecare Business Insights Dashboard"></a><br>
 <sub><b>Homecare Business Insights</b></sub>
 </td>
 </tr>
