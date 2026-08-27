@@ -94,7 +94,7 @@ Designing reliable data platforms, streaming pipelines, cloud analytics layers, 
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>🏥 Homecare Business Insights Platform</h3>
       <p><a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Azure Functions, ADLS Gen2, Synapse, Parquet, Bicep, Power BI</p>
