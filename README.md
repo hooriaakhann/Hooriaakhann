@@ -94,13 +94,13 @@ Designing reliable data platforms, streaming pipelines, cloud analytics layers, 
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🏥 Homecare Business Insights Platform</h3>
       <p><a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Azure Functions, ADLS Gen2, Synapse, Parquet, Bicep, Power BI</p>
       <p>Public-safe Azure implementation with incremental API ingestion, Bronze/Silver/Gold layers, history modeling, SQL serving, and infrastructure-as-code.</p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🚗 PakWheels Streaming ETL Pipeline</h3>
       <img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/pakwheels-etl.svg" width="100%" alt="PakWheels Streaming ETL Pipeline" />
       <p><a href="https://github.com/hooriaakhann/PakWheels-ETL-Pipeline"><strong>View Repository →</strong></a></p>
@@ -112,14 +112,14 @@ Designing reliable data platforms, streaming pipelines, cloud analytics layers, 
 
 ### 📸 Data & Analytics Portfolio — Gallery
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%">
-<a href="https://github.com/hooriaakhann/Revenue-Profit-Tracker"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/revenue-profit.svg" width="260" alt="Revenue and Profit Tracker"></a><br>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/hooriaakhann/Revenue-Profit-Tracker"><kbd><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/revenue-profit.svg" width="90%" alt="Revenue and Profit Tracker"></kbd></a><br>
 <sub><b>Revenue & Profit Tracker</b></sub>
 </td>
-<td align="center" width="50%">
-<a href="https://github.com/hooriaakhann/ChurnSense"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/churnsense.svg" width="260" alt="ChurnSense"></a><br>
+<td align="center" width="50%" valign="top">
+<a href="https://github.com/hooriaakhann/ChurnSense"><kbd><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/churnsense.svg" width="90%" alt="ChurnSense"></kbd></a><br>
 <sub><b>ChurnSense</b></sub>
 </td>
 </tr>
