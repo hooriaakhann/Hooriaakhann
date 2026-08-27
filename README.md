@@ -229,7 +229,11 @@ Building AI-driven product experiences that combine retrieval, generation, custo
 ## 📅 Contribution Calendar - Full Year
 
 <div align="center">
-  <img width="98%" alt="Hooria Khan GitHub Contribution Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=hooriaakhann&theme=github-dark&bg_color=0d1117&line=0077b6&point=0077b6&area=true&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:0077b6/hooriaakhann" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:0077b6/hooriaakhann" />
+    <img width="98%" alt="Hooria Khan GitHub Contribution Calendar" src="https://ghchart.xqsit94.in/dark:0077b6/hooriaakhann" />
+  </picture>
 </div>
 
 ---
@@ -237,14 +241,8 @@ Building AI-driven product experiences that combine retrieval, generation, custo
 ## 💬 Let's Connect!
 
 <div align="center">
-  <p>
-    <a href="https://github.com/hooriaakhann" target="blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:hooriaakhan6@gmail.com" target="blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <a href="https://github.com/hooriaakhann"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="mailto:hooriaakhan6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
