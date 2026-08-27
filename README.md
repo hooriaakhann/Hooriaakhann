@@ -114,17 +114,13 @@ Designing reliable data platforms, streaming pipelines, cloud analytics layers, 
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://github.com/hooriaakhann/Revenue-Profit-Tracker"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/revenue-profit.svg" width="260" alt="Revenue and Profit Tracker"></a><br>
 <sub><b>Revenue & Profit Tracker</b></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://github.com/hooriaakhann/ChurnSense"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/churnsense.svg" width="260" alt="ChurnSense"></a><br>
 <sub><b>ChurnSense</b></sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/hooriaakhann/Homecare-Business-Insights-Platform"><img src="https://raw.githubusercontent.com/hooriaakhann/Hooriaakhann/main/assets/harwell-dashboard-profile.jpg" width="260" alt="Harwell Homecare Business Insights Dashboard"></a><br>
-<sub><b>Homecare Business Insights</b></sub>
 </td>
 </tr>
 </table>
