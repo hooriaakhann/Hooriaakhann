@@ -224,17 +224,6 @@ Building AI-driven product experiences that combine retrieval, generation, custo
   </table>
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hooriaakhann&show_icons=true&theme=github_dark&include_all_commits=true&line_height=27" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hooriaakhann&show_icons=true&theme=github_dark&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=hooriaakhann&theme=github-dark" alt="Streak Stats" />
-</div>
-
 ---
 
 ## 📅 Contribution Calendar - Full Year
